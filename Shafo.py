@@ -78,9 +78,9 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 \x1b[37;1m+×+×+×+×+×+×+×+×+×+×+×+×+×+×+×+×++×+×+×+×+
-\x1b[31;1m@              Aro Software               @
-\x1b[31;1m@              Version: 3                @                
-\x1b[31;1m@              FB Grabber                @
+\x1b[31;1m@              SHAFO_CODER               @
+\x1b[31;1m@              SNAP: br35308             @                
+\x1b[31;1m@              FB cracker                @
 \x1b[37;1m+×+×+×+×+×+×+×+×+×+×+×+×+×+×+×+×++×+×+×+×+
 """
 
@@ -94,8 +94,8 @@ RH = """
 \x1b[31;1m   \/__/     \|__|     \/__/   
 """
 print(RH)
-CorrectUsername = "aro"
-CorrectPassword = "software"
+CorrectUsername = "SHAFO"
+CorrectPassword = "CODER"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\x1b[34;1m👨‍ \x1b[1;95mID \x1b[31;1m@Daxilka>>\x1b[1;91m")
@@ -108,10 +108,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;96m Passwordakat Halaya"
-            print " Tkaya Bba andam la Staff Rasha Ta ID w Pass Dast Kawet"
+            print " AGAR TO DASTKARE AM TOOLA T KRD TO CODER NE"
     else:
         print "\033[1;96mIDya Kat Halaya "
-        print "Tkaya Bba andam la Staff Rasha Ta ID w Pass Dast Kawet"
+        print "AGAR TO DASTKARE AM TOOLA T KRD TO CODER NE"
 
 def login():
 	os.system('clear')
@@ -296,7 +296,7 @@ def startgrab():
 		print("\r\x1b[37;1m[☆]Cracking"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n                            \x1b[37;1m <●>°•°<●>Aro<●>°•°<●>"
 	print "   \x1b[31;1m®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®"
-	anime('          \x1b[34;1m  Dast Pekrdn Ba Hackaka Tkaya Chawarwan Ba..... ')
+	anime('          \x1b[34;1m  SHAFO_KING_FACEBOOK ADD_br35308 ..... ')
 	print  "  \033[1;92m®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®" 
 
 	def main(arg):
@@ -517,15 +517,15 @@ def startgrab():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-        anime("\x1b[32;1m>>>>>>>>>>>>>>>\x1b[31;1mAro\x1b[37;1msoftware\x1b[32;1m<<<<<<<<<<<<<<<")
+        anime("\x1b[32;1m>>>>>>>>>>>>>>>\x1b[31;1mSHAFO\x1b[37;IRAQE\x1b[32;1m<<<<<<<<<<<<<<<")
 	
 	print '\x1b[32;1m Crack Krdnaka Kotay Hat [√]^_^ '
 	print"\x1b[31;1mKoy Hack Bu/\x1b[31;1mCHECKPOINT\x1b[37;1m: \x1b[32;1m"+str(len(oks))+"\x1b[31;1m/\x1b[33;1m"+str(len(cekpoint))
 	print ""
 	print(logo)
-	anime("\x1b[37;1m✓✓✓✓✓✓✓✓✓✓" ) #Aro
+	anime("\x1b[37;1m✓✓✓✓✓✓✓✓✓✓" ) #SHAFO
 	anime("==========ADMIN==========")
-	anime("Aro Software")
+	anime("SHAFO_CODER")
 	anime("==========ADMIN==========")
 	print ""
 	print ""
